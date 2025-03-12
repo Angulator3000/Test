@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "playwright": "^1.51.0"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "@playwright/test": "^1.51.0"
+  },
+  "scripts": {
+  "test": "npx cucumber-js"
+}
+}
+
